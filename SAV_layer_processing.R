@@ -1,6 +1,7 @@
 #########
 
-## Seagrass chronosequence map data processing
+## Seagrass chronosequence map data processing for South Bay/Virginia Coast
+# Reserve (VCR) LTER. Data from VIMS SAV Laboratory aerial survey data layers
 
 ###############################################################################
 ## Packages:
